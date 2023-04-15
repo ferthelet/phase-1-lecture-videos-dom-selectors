@@ -10,3 +10,5 @@
 - [getElementsByTagName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName)
 - [getElementsByClassName](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName)
 - [CSS Selector Reference](https://www.w3schools.com/cssref/css_selectors.asp)
+
+Thanks
